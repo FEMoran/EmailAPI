@@ -19,6 +19,8 @@ Imports System.ComponentModel
 
 Public Class Form1
 
+    'This is test only.
+
     Dim QueryStringALARMCOM_ID As Integer
     Dim strdealer As String = ""
     Dim strcsno As String = ""
