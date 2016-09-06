@@ -52,6 +52,7 @@ Public Class Form1
 
     Sub GetData()
 
+        'test only
 
         Dim excelApp As New Excel.Application
         Dim excelBook As Excel.Workbook = excelApp.Workbooks.Add(System.Reflection.Missing.Value)
